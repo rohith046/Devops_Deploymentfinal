@@ -11,9 +11,9 @@
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://bravo.cmdqkkkcrmgd.ap-south-1.rds.amazonaws.com:3306/bravo?createDatabaseIfNotExist=true" />
+				value="jdbc:mysql://project-db.cg92sss7amcv.ap-south-1.rds.amazonaws.com:3306/project-db?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user"
-				value="root" />
+				value="admin" />
 			<property name="javax.persistence.jdbc.password"
 				value="8660939404" />
 			<property name="hibernate.show_sql" value="true" />
